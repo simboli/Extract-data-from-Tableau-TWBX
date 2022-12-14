@@ -5,7 +5,7 @@
 002. [Extracting data from Tableau extract to Pandas dataframe with Tableau Hyper API](https://github.com/simboli/Extract-data-from-Tableau-TWBX/blob/main/002.Extracting%20data%20from%20Tableau%20extract%20to%20Pandas%20dataframe%20with%20Tableau%20Hyper%20API.ipynb)
 
 ## Credits
-For this example I have used the "Salaries by College type in USA" dashboard of O. Agbolabori. You can see and download it from [this page on the Tableau Public gallery](https://public.tableau.com/app/profile/oluwadunsin.agbolabori/viz/SalariesbyCollegetypeinUSAEduvizzers/Dashboard1).
+For this example, I have used the "Salaries by College type in USA" dashboard of O. Agbolabori. You can see and download it from [this page on the Tableau Public gallery](https://public.tableau.com/app/profile/oluwadunsin.agbolabori/viz/SalariesbyCollegetypeinUSAEduvizzers/Dashboard1).
 
 ## Packages
 In this workbook I have used the following modules:
@@ -16,7 +16,7 @@ In this workbook I have used the following modules:
 - zipfile
 - os
 
-I strongly suggest to use a virtual environment and install packages from the requirements file
+I strongly suggest using a virtual environment and installing packages from the requirements file
 ```
 pip install -r requirements.txt
 ```
