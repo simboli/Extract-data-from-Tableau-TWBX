@@ -1,0 +1,6 @@
+shutil
+pathlib
+zipfile
+os
+pandas
+tableauhyperapi==0.0.16123
