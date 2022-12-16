@@ -1,6 +1,6 @@
 # How to use Hyper API to extract data from Tableau TWBX and load it in Pandas Dataframe
 
-<img src="https://raw.githubusercontent.com/simboli/Extract-data-from-Tableau-TWBX/main/00.Media/Grumpy.png" alt="Grumpy" width="400px"/>
+<img src="https://raw.githubusercontent.com/simboli/Extract-data-from-Tableau-TWBX/main/00.Media/Grumpy.png" alt="Grumpy" width="300px"/>
 
 ## List of workbooks
 001. [Unpackaging of Tableau TWBX file](https://github.com/simboli/Extract-data-from-Tableau-TWBX/blob/main/001.Unpackaging%20of%20Tableau%20TWBX%20file.ipynb)
