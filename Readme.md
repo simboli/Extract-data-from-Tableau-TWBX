@@ -18,7 +18,7 @@ In this workbook I have used the following modules:
 - zipfile
 - os
 
-I strongly suggest using a virtual environment and installing packages from the requirements file
+I strongly suggest using a virtual environment and installing packages from the provided requirements file
 ```
 pip install -r requirements.txt
 ```
